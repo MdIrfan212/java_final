@@ -1,0 +1,5 @@
+1,Burger,chese,petty,23,2
+2,asd,asddasd,asdasd,12,23
+3,,,,
+4,,,,
+5,SDASDASD,dsdsds,55,250

@@ -34,6 +34,14 @@ public AddIndigrents()
 	this.setVisible(true);
 
 
+
+
+
+
+
+
+
+
 	thisPannel = new JPanel();
 	thisPannel.setSize(new Dimension(1200, 720));
 	Color background = new Color(255, 255, 255);
